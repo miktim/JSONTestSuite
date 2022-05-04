@@ -1,0 +1,6 @@
+./parsers/test_java_miktim_json_2_0/
+run_tests_1.py		test only miktim 2.0 JSON parser
+run_tests_j.py		test only Java JSON parsers
+run_tests.py.entry	miktim JSON 2.0 parser entry
+
+See: https://github.com/nst/JSONTestSuite
